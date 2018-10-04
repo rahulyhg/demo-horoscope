@@ -1,0 +1,22 @@
+spring.mvc.view:
+  prefix: /WEB-INF/jsp/
+  suffix: .jsp
+
+spring.h2.console.enabled: true
+
+horo:
+  user: test
+  pass: test
+  url:
+    aries: https://astrobix.com/feeds/rashiaries
+    taurus: https://astrobix.com/feeds/rashitaurus
+    gemini: https://astrobix.com/feeds/rashigemini
+    cancer: https://astrobix.com/feeds/rashicancer
+    leo: https://astrobix.com/feeds/rashileo
+    virgo: https://astrobix.com/feeds/rashivirgo
+    libra: https://astrobix.com/feeds/rashilibra
+    scorpio: https://astrobix.com/feeds/rashiscorpio
+    sagittarius: https://astrobix.com/feeds/rashisagittarius
+    capricorn: https://astrobix.com/feeds/rashicapricorn
+    aquarius: https://astrobix.com/feeds/rashiaquarius
+    pisces: https://astrobix.com/feeds/rashipisces

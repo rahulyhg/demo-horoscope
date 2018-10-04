@@ -1,0 +1,12 @@
+insert into horoscope values(1, 'aries', 'wewewe');
+insert into horoscope values(2, 'taurus', '');
+insert into horoscope values(3, 'gemini', '');
+insert into horoscope values(4, 'cancer', '');
+insert into horoscope values(5, 'leo', '');
+insert into horoscope values(6, 'virgo', '');
+insert into horoscope values(7, 'libra', '');
+insert into horoscope values(8, 'scorpio', '');
+insert into horoscope values(9, 'sagittarius', '');
+insert into horoscope values(10, 'capricorn', '');
+insert into horoscope values(11, 'aquarius', '');
+insert into horoscope values(12, 'pisces', '');
